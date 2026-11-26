@@ -128,3 +128,11 @@ no stock trophy, podium, or graduation.
 
 Built and locally verified. NOT committed, pushed, bundled, or submitted —
 the parent handles that.
+
+## Submission
+
+- Submission: 01a215f0-621a-76e4-876e-940e06173bfe
+- Commit: ef79c83debfbe8948171025b26ef6e595c45d031
+- Repo: https://github.com/lukmannurh/u-mang-one-line-of-earned-pride-a0138557
+- Claim code: AF-KTFPN-XHV59-8FBWK-82G6V
+- Submitted: 2026-11-26T03:40:22.829Z (parent pipeline)
